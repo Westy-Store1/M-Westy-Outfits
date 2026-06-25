@@ -1,4 +1,4 @@
-# M-Westy Outfits
+# ─── M-WESTY OUTFITS  ───
 
 Uma solução de vestiário minimalista e intuitiva para FiveM, desenvolvida com foco em alta performance e refinamento visual.
 
@@ -31,9 +31,10 @@ Protegido pela Lei do Software (Nº 9.609/98) e Art. 184 do Código Penal. É pr
 
 ### Preview
 
-<img src="https://github.com" width="100%" alt="Preview 1" />
+<img width="1584" height="993" alt="24_de_jun _de_2026_20_33_34" src="https://github.com/user-attachments/assets/5c2e4c58-442a-4957-98a1-8b70c5ef579c" />
 
-<img src="https://github.com" width="100%" alt="Preview 2" />
+<img width="1705" height="923" alt="content" src="https://github.com/user-attachments/assets/0c59b7f9-19a9-41a4-b23b-6dedc71ef6cc" />
+
 
 ---
 
