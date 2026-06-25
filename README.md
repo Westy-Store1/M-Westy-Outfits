@@ -2,6 +2,9 @@
 
 Uma solução de vestiário minimalista e intuitiva para FiveM, desenvolvida com foco em alta performance e refinamento visual.
 
+<img width="1672" height="941" alt="ChatGPT_Image_24_de_jun _de_2026_19_49_08" src="https://github.com/user-attachments/assets/eca0d519-4e66-4569-a9f3-d239a6825b83" />
+
+
 ---
 
 ### Especificações
