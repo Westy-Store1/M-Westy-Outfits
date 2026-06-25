@@ -39,3 +39,7 @@ Protegido pela Lei do Software (Nº 9.609/98) e Art. 184 do Código Penal. É pr
 ---
 
 ##### Westy Store ™ · [Acesse nosso Discord](https://discord.gg/pV4cqzxJNg)
+
+[M-Westy Outfits] Desenvolvido por M-Westy © 2026. Todos os direitos reservados.
+
+
